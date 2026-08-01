@@ -17,6 +17,7 @@ Computer Science and Artificial Intelligence undergraduate at the University of 
 
 - [PU Realtors Website Case Study](https://github.com/Rohanasudani/pu-realtors-website-case-study) - Real estate website and lead-generation case study with 70 lakh INR in plot sales impact.
 - [Snake and Gridworld Reinforcement Learning](https://github.com/Rohanasudani/snake-gridworld-rl) - Q-learning, SARSA, and approximate Q-learning benchmark with reproducible experiment results.
+- [Interactive Planner Java](https://github.com/Rohanasudani/interactive-planner-java) - JavaFX desktop planner with accounts, themes, persistence, and unit-tested planner workflows.
 
 ## Tech
 
@@ -26,4 +27,3 @@ Python, Java, JavaScript, TypeScript, SQL, C++, React, Next.js, Node.js, Express
 
 - Portfolio / business project: https://purealtors.in/
 - GitHub: https://github.com/Rohanasudani
-
